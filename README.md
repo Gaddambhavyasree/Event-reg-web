@@ -1,4 +1,7 @@
-📌 Project Title
+📌 Project Title (Live URL - https://event-managementcreo.netlify.app)
+
+
+
 Event Registration Website
 
 🧠 Project Description
